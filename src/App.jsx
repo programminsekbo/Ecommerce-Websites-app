@@ -8,8 +8,7 @@ import AboutPage from "./pages/about-page";
 import RefundPage from "./pages/refund-page";
 import HowToBuy from "./pages/how-to-buy";
 import ComplainPage from "./pages/complain=page";
-import ContactPage from "./pages/contact-page.JSX";
-import PrivacyPage from "./pages/privacy-PAGE.JSX";
+
 import LoginPage from "./pages/Login-page";
 import OtpPage from "./pages/otp-page";
 import ProfilePage from "./pages/profile-page";
@@ -17,6 +16,19 @@ import WishPage from "./skeleton/wish-page";
 import CartPage from "./pages/cart-page";
 import InvoicePage from "./pages/invoice-page";
 import OrderPage from "./pages/order-page";
+import PrivacyPage from './pages/privacy-page';
+import ContactPage from "./pages/contact-page";
+
+
+
+
+
+
+
+
+
+
+
 
 const App = () => {
   return (
